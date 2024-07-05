@@ -54,7 +54,7 @@ Allows users to execute SQL queries interactively against the PostgreSQL databas
 
 ### Explanation
 
-- The links [**Total Purchases per Customer**](https://github.com/vedanshi0512/Customer_Purchase/blob/master/Total%20purchases%20per%20customer.pdf) and [**Total Value of Purchases per Customer**](total_value_of_purchases_per_customer.pdf) link to the respective PDF files.
+- The links [**Total Purchases per Customer**](https://github.com/vedanshi0512/Customer_Purchase/blob/master/Total%20purchases%20per%20customer.pdf) and [**Total Value of Purchases per Customer**](https://github.com/vedanshi0512/Customer_Purchase/blob/master/total%20value%20of%20purchases%20per%20customer.pdf) link to the respective PDF files.
 - Ensure the PDF files total_purchases_per_customer.pdf and total_value_of_purchases_per_customer.pdf are in the same directory as the README.
 
 ### Example Folder Structure
